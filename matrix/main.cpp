@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "MyVector.h"
+#include "moivector.h"
 #include "matritsa.h"
 
 int main()
