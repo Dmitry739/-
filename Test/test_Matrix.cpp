@@ -1,7 +1,7 @@
-#include "MyVector.h"
+#include "moivector.h"
 
 #include <gtest.h>
-#include "Matrix.h"
+#include "matritsa.h"
 
 TEST(TMatrix, can_create_matrix) {
   ASSERT_NO_THROW(TMatrix<int>(3));
